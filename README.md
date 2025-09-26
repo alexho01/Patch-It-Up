@@ -6,10 +6,15 @@ Core Features
 Slash Commands:
 
 /latestpatch - Displays the most recent patch with categorized champion changes
+
 /subscribe - Subscribe a Discord channel to receive automatic patch notifications
+
 /unsubscribe - Remove channel from patch notification list
+
 /ping - Check bot latency and responsiveness
+
 /info - Display bot information and statistics
+
 /echo [text] - Echo back user input (utility command)
 
 Interactive Features:
