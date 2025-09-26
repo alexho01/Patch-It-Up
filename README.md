@@ -1,4 +1,4 @@
-Project Overview & Features
+Project Overview & Features:
 
 This is a comprehensive Discord bot that automatically fetches, parses, and displays League of Legends patch notes in an organized, interactive format. The bot transforms complex patch note websites into clean, digestible Discord messages with intelligent content classification.
 
