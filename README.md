@@ -2,7 +2,14 @@ Project Overview & Features:
 
 This is a comprehensive Discord bot that automatically fetches, parses, and displays League of Legends patch notes in an organized, interactive format. The bot transforms complex patch note websites into clean, digestible Discord messages with intelligent content classification.
 
-Core Features
+Interactive Features:
+
+Smart Champion Classification: Automatically categorizes champions as buffed, nerfed, or adjusted based on stat analysis
+Interactive Detail Buttons: Click-to-reveal detailed changes without cluttering chat
+Ephemeral responses: Detailed information appears privately to the requesting user
+Automatic Notifications: Scheduled monitoring sends patch alerts to subscribed channels
+Game Mode Filtering: Excludes ARAM, Arena, rotating game modes, and event content
+
 Slash Commands:
 
 /latestpatch - Displays the most recent patch with categorized champion changes
@@ -16,14 +23,6 @@ Slash Commands:
 /info - Display bot information and statistics
 
 /echo [text] - Echo back user input (utility command)
-
-Interactive Features:
-
-Smart Champion Classification: Automatically categorizes champions as buffed, nerfed, or adjusted based on stat analysis
-Interactive Detail Buttons: Click-to-reveal detailed changes without cluttering chat
-Ephemeral responses: Detailed information appears privately to the requesting user
-Automatic Notifications: Scheduled monitoring sends patch alerts to subscribed channels
-Game Mode Filtering: Excludes ARAM, Arena, rotating game modes, and event content
 
 
 
