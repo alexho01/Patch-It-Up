@@ -5,9 +5,13 @@ This is a comprehensive Discord bot that automatically fetches, parses, and disp
 Interactive Features:
 
 Smart Champion Classification: Automatically categorizes champions as buffed, nerfed, or adjusted based on stat analysis
+
 Interactive Detail Buttons: Click-to-reveal detailed changes without cluttering chat
+
 Ephemeral responses: Detailed information appears privately to the requesting user
+
 Automatic Notifications: Scheduled monitoring sends patch alerts to subscribed channels
+
 Game Mode Filtering: Excludes ARAM, Arena, rotating game modes, and event content
 
 Slash Commands:
