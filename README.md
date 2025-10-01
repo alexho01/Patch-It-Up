@@ -1,33 +1,39 @@
-Project Overview & Features:
+Project Overview & Features
 
-This is a comprehensive Discord bot that automatically fetches, parses, and displays League of Legends patch notes in an organized, interactive format. The bot transforms complex patch note websites into clean, digestible Discord messages with intelligent content classification.
+This project is a Discord bot designed to automatically fetch, parse, and display League of Legends patch notes in a clean, organized, and interactive format. Instead of sifting through long and cluttered patch pages, users get digestible updates directly in Discord — intelligently categorized and easy to explore.
 
-Interactive Features:
+Key Features
 
-Smart Champion Classification: Automatically categorizes champions as buffed, nerfed, or adjusted based on stat analysis
+Smart Champion Classification
+Champions are automatically categorized as buffed, nerfed, or adjusted through stat and text analysis.
 
-Interactive Detail Buttons: Click-to-reveal detailed changes without cluttering chat
+Interactive Detail Buttons
+Expand champion changes on demand with click-to-reveal buttons, keeping chats uncluttered.
 
-Ephemeral responses: Detailed information appears privately to the requesting user
+Private Ephemeral Responses
+Detailed info is delivered privately to the requesting user, preventing chat spam.
 
-Automatic Notifications: Scheduled monitoring sends patch alerts to subscribed channels
+Automatic Notifications
+Scheduled monitoring delivers patch alerts to subscribed channels instantly.
 
-Game Mode Filtering: Excludes ARAM, Arena, rotating game modes, and event content
+Game Mode Filtering
+Automatically excludes ARAM, Arena, rotating modes, and event content for focused patch updates.
 
-Slash Commands:
+Slash Commands
 
-/latestpatch - Displays the most recent patch with categorized champion changes
+/latestpatch – Displays the latest patch, with categorized champion changes
 
-/subscribe - Subscribe a Discord channel to receive automatic patch notifications
+/subscribe – Subscribes a channel to automatic patch notifications
 
-/unsubscribe - Remove channel from patch notification list
+/unsubscribe – Removes a channel from patch notifications
 
-/ping - Check bot latency and responsiveness
+/ping – Checks bot latency and responsiveness
 
-/info - Display bot information and statistics
+/info – Shows bot information and statistics
 
-/echo [text] - Echo back user input (utility command)
+/echo [text] – Echoes back user input (utility/debug command)
 
+⚡ With these features, the bot transforms complex patch notes into a streamlined Discord experience — perfect for keeping communities up to date without the clutter.
 
 
 <img width="600" height="573" alt="image" src="https://github.com/user-attachments/assets/e92b8a89-7da6-43e7-ab51-8d4bf0a3a341" />
